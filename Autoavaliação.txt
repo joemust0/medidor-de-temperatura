@@ -1,0 +1,17 @@
+Medidor de temperatura.
+
+Antes do projeto:
+- Sabia usar Python básico, mas nunca tinha usado Selenium nem manipulado arquivos Excel.
+
+Durante o projeto:
+- Aprendi como abrir sites com Selenium, encontrar elementos com XPath e ID.
+- Aprendi a salvar dados em planilhas com OpenPyXL.
+- Criei uma interface gráfica simples com tkinter.
+
+Depois do projeto:
+- Me sinto mais preparado para automatizar tarefas reais.
+- Aprendi como criar repositórios e usar GitHub.
+
+O que posso melhorar:
+- Automatizar testes
+- Lidar com mudanças no HTML do site com mais robustez
